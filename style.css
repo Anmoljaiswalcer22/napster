@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#myProgressBar{
+    width: 68vw;
+    accent-color: red;  
+
+}
+.rightt {
+    font-size: 220%;
+    font-family: 'Rubik Glitch', system-ui;
+    color: rgb(169, 67, 84);
+    text-shadow: 2px 2px #3731a9;
+}
+.body{
+    background-color: rgb(19, 26, 26) ;
+}
+.hell{
+    transition: opacity 1.5s;
+}
